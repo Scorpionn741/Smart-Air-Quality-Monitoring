@@ -116,9 +116,6 @@ Input     Input+Trigger  Output               Output
 | Parameter | Detail |
 |-----------|--------|
 | **Modul** | ESP32 DevKit v1 / v4 |
-| **CPU** | Xtensa dual-core LX6, 240 MHz |
-| **Flash** | 4 MB |
-| **RAM** | 520 KB SRAM |
 | **WiFi** | 802.11 b/g/n (2.4 GHz) |
 | **ADC** | 12-bit SAR ADC, 18 channel |
 | **GPIO** | 34 pin (input/output) |
